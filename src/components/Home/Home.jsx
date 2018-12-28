@@ -1,11 +1,12 @@
 import React from 'react'
+import NewsSlider from '../Widgets/NewsSlider/NewsSlider';
 
 
 
 const Home = (props)=>{
     return(
         <div>
-This is something
+<NewsSlider/>
         </div>
     )
 }
